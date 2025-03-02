@@ -17,6 +17,9 @@
         }
     }
 
+  To stop waxing you have to execute
+    _G.EmergencyStop = true
+
   Credits: 
     Discord @icrazych 
 ]]
